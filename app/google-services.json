@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47485300988",
+    "project_id": "webcu-3f8a0",
+    "storage_bucket": "webcu-3f8a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47485300988:android:5c0a4b9006eb945a74e779",
+        "android_client_info": {
+          "package_name": "com.shashank.cuweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47485300988-g2gdrn4hpmq3i2sf5no0m7631722nppa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDMlI-zSPQNlbSIEdyjXgBh-3IiqVaMZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47485300988-g2gdrn4hpmq3i2sf5no0m7631722nppa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
